@@ -1,0 +1,25 @@
+{
+  "name": "bennyjs",
+  "version": "1.0.0",
+  "description": "BennyBot in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "not set"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leg3ndary/BennyJS.git"
+  },
+  "author": "Ben Z",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Leg3ndary/BennyJS/issues"
+  },
+  "homepage": "https://github.com/Leg3ndary/BennyJS#readme",
+  "dependencies": {
+    "discord.js": "^13.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
